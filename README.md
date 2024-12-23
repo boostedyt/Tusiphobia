@@ -1,4 +1,5 @@
 # tusiphobia
+Updated to latest version from me boosted4 discord. If you want to contribute feel free
 The two DLL files that are outputted by tusiphobia.sln are to be put in the same folder as `Phasmophobia.exe`.
 
 ## Credits and huge thanks
